@@ -110,11 +110,6 @@ INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
 (7, '2021_03_12_170959_create_kategori_artikel_table', 1),
 (8, '2021_03_12_171751_create_banners_table', 1),
 (9, '2021_03_12_172043_create_navbars_table', 1),
-(10, '2022_06_02_111248_create_gurus_table', 1),
-(11, '2022_06_12_144853_create_mapels_table', 1),
-(12, '2022_06_12_155722_create_kelas_table', 2),
-(13, '2022_06_12_173847_add_idguru_to_kelas_table', 3);
-
 -- --------------------------------------------------------
 
 --
